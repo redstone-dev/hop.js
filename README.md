@@ -2,7 +2,9 @@
 A JavaScript version of Hopscotch, the coding platform for kids
 
 ## Getting started
-Simply click the "⬇️ Code" button at the top of the page to clone locally.
+**On the GitHub page:** Simply click the "⬇️ Code" button at the top of the page to clone locally
+
+**On the GH Pages page:** <a href="https://github.com/redstone-scratch/hop.js/releases">Go here</a>
 
 ## How to use
 It's easy! You can type native JS code to run inside the function, or <a href="https://github.com/redstone-scratch/hop.js/wiki">see the wiki</a> for the adapted versions of every block in Hopscotch.
