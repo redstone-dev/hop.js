@@ -1,0 +1,18 @@
+{
+  "name": "hop-js",
+  "version": "0.1.1-beta",
+  "description": "My own text version of Hopscotch, the coding platform for kids",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"no test script\""
+  },
+  "keywords": [
+    "hopjs",
+    "hopscotch"
+  ],
+  "author": "red_parrot_labs",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
